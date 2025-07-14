@@ -30,5 +30,14 @@ Os seguintes datasets foram utilizados para treinar e avaliar o modelo:
 
 ## Referências
 
-- Artigo base: **"A methodology for fresh tomato maturity detection using computer vision"**
+- Artigo base: **A methodology for fresh tomato maturity detection using computer vision**,
+Peng Wan, Arash Toudeshki, Hequn Tan, Reza Ehsani,
+Computers and Electronics in Agriculture,
+Volume 146,
+2018,
+Pages 43-50,
+ISSN 0168-1699,
+https://doi.org/10.1016/j.compag.2018.01.011.
+(https://www.sciencedirect.com/science/article/pii/S016816991730056X)
+Keywords: Maturity detection; Feature color value; Backpropagation neural network; Tomato
 - Documentação do projeto e código disponível neste repositório.
