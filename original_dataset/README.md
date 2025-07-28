@@ -7,6 +7,32 @@
 
 This dataset was created for research on automated tomato maturity detection using computer vision techniques. It contains images and annotations relevant to the classification of tomato quality and maturity.
 
+## Dataset Structure
+
+### Image Naming Convention
+
+The image files follow a standardized naming pattern:
+
+```
+<TomatoType>-<TomatoClass>-<Counter>.bmp
+```
+
+### Parameters Explained
+
+| Parameter | Description | Values |
+|-----------|-------------|---------|
+| **TomatoType** | Variety of tomato | `B` (**Roma**) or `S` (**Pear**) |
+| **TomatoClass** | Maturity stages | `R`, `C`, or `G` |
+| **Counter** | Sequential image number | Numeric identifier |
+
+### Maturity Stages
+
+| Class | Description | Color Characteristics |
+|-------|-------------|----------------------|
+| **R** (Red) | Fully or almost fully mature | Predominantly red coloration |
+| **C** (Color) | Half mature | Orange-dominant coloration |
+| **G** (Green) | Immature | Green-dominant coloration |
+
 ## Availability
 
 **Note:**  
